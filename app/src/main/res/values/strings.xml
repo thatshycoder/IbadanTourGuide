@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ibadan Tour Guide</string>
+    <string name="call">Call:</string>
+    <string name="food">Food</string>
+    <string name="hotel">Hotel</string>
+    <string name="movies">Movies</string>
+    <string name="mall">Mall</string>
+    <string name="park">Parks</string>
+</resources>
